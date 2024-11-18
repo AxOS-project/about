@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/axos-project/about_axos">
+    <file>window.ui</file>
+    <file>com.axos-project.axos.png</file>
+  </gresource>
+    <gresource prefix="/com/axos-project/about_axos/icons/hicolor/scalable/apps">
+    <file alias="com.axos-project.about_axos.svg">../data/icons/hicolor/scalable/apps/com.axos-project.about_axos.svg</file>
+  </gresource>
+
+</gresources>

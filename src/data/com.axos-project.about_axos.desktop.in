@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=About AxOS
+
+Exec=about_axos
+
+Icon=com.axos-project.axos
+
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
