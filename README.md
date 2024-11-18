@@ -15,5 +15,5 @@ ninja -C build
 sudo ninja -C build install
 ```
 
-[screenshot](/screenshot/screenshot.png)
+[screenshot](/screenshot/about.png)
 
