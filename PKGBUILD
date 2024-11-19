@@ -1,5 +1,5 @@
 pkgname=about-axos
-pkgver=2.0
+pkgver=2.1
 pkgrel=1
 pkgdesc="About AxOS is a system information tool for the AxOS operating system."
 arch=('x86_64')
