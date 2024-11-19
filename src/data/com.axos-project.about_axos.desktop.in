@@ -3,7 +3,7 @@ Name=About AxOS
 
 Exec=about_axos
 
-Icon=com.axos-project.axos
+Icon=axos-logo
 
 Terminal=false
 Type=Application
